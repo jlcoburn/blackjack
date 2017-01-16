@@ -16,3 +16,8 @@ html, body {
 .header {
   font-size: 24px;
 }
+
+#pCards, #cCards {
+  text-align: center;
+  font-size: 48px;
+}
